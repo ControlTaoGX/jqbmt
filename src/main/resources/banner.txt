@@ -1,0 +1,10 @@
+
+   `7MMF' .g8""8q. `7MM"""Yp, `7MMM.     ,MMF'MMP""MM""YMM
+     MM .dP'    `YM. MM    Yb   MMMb    dPMM  P'   MM   `7
+     MM dM'      `MM MM    dP   M YM   ,M MM       MM
+     MM MM        MM MM"""bg.   M  Mb  M' MM       MM
+     MM MM.      ,MP MM    `Y   M  YM.P'  MM       MM
+(O)  MM `Mb.    ,dP' MM    ,9   M  `YM'   MM       MM
+ Ymmm9    `"bmmd"' .JMMmmmd9  .JML. `'  .JMML.   .JMML.
+              MMb    :: Spring-Boot ::
+               `bood'              (${spring-boot.version})
